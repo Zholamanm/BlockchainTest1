@@ -1,0 +1,1 @@
+window.__remixManifest={"entry":{"module":"/build/entry.client-DHIHFPLW.js","imports":["/build/_shared/chunk-S2JET4XN.js"]},"routes":{"root":{"id":"root","path":"","module":"/build/root-OVTQGKL6.js","hasAction":false,"hasLoader":false,"hasClientAction":false,"hasClientLoader":false,"hasErrorBoundary":false}},"version":"ded13bba","url":"/build/manifest-DED13BBA.js"};
